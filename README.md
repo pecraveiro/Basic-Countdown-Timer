@@ -10,7 +10,7 @@
 ---
 ## Sobre 📑
 
-O projeto **Basic Countdown Timer** é uma aplicação básica que realiza uma contagem regressiva com base na data que o usuário coloca. Ademais, foi programado por **mim**, estudante em uma Empresa Júnior de Engenharia de Computação da Universidade Federal de Santa Catarina, baseado em um guia no Youtube.
+O projeto **Basic Countdown Timer** é uma aplicação básica que realiza uma contagem regressiva com base na data que o usuário coloca. Ademais, o projeto foi programado por **mim**, que sou estudante na Universidade Federal de Santa Catarina, na qual faço parte de uma Empresa Júnior de Engenharia de Computação, baseado em um guia no Youtube.
 
 ---
 
