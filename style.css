@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+html { /* Cursor do Mouse do World of Warcraft*/
+    cursor: url('world-of-warcraft-cursor.png'), pointer;
+}
+
+body{
+    background-image: url(beachbackground2.jpg);
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: 'Roboto Mono', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    color: black;
+    font-weight: normal;
+    font-size: 4rem;
+    margin-top: -2rem;
+    margin-top: 5rem;
+}
+
+.countdown-container {
+    color: black;
+    display: flex;
+    flex: wrap;
+    justify-content: center;
+
+}
+
+.big-text {
+    font-weight: bold;
+    font-size: 6rem;
+    line-height: 1;
+    margin: 0 2rem;
+
+}
+
+.countdown-el{
+    text-align: center;
+}
+
+.countdown-el span {
+    font-size: 1.3rem;
+}
