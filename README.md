@@ -5,7 +5,7 @@
 ## Índice 🔍
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Guia completo](#-como-baixar-o-projeto)
+- [Guia completo](#-guia-completo)
 
 ---
 ## Sobre 📑
