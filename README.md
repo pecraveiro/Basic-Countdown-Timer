@@ -30,4 +30,4 @@ O projeto **Basic Countdown Timer** é uma aplicação básica que realiza uma c
 - [Banco de Imagens](https://www.pexels.com/pt-br/);
 - [Cursor](https://www.cursors-4u.com/cursor/2008/12/22/world-of-warcraft-wow-hand-armor.html).
 
-                                Desenvolvido por Pedro Craveiro 🌐
+<p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro</a> 🌐</p>
