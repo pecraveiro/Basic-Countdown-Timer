@@ -2,20 +2,20 @@
     <img src="projeto.png">
 </h1>
 
-## Índice 🔍
+## 🔍 Índice
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Guia completo](#-guia-completo)
 
 ---
-## Sobre 📑
+## 📑 Sobre
 
 O projeto **Basic Countdown Timer** é uma aplicação básica que realiza uma contagem regressiva com base na data que o usuário coloca. Ademais, o projeto foi programado por **mim** - que sou estudante na Universidade Federal de Santa Catarina -, baseado em um guia no Youtube.
 
 ---
 
 
-## Tenologias utilizadas 📑
+## 📑 Tenologias utilizadas
 
 - HTML;
 - CSS;
@@ -23,7 +23,7 @@ O projeto **Basic Countdown Timer** é uma aplicação básica que realiza uma c
 
 ---
 
-## Guia completo 📑
+## 📑 Guia completo
 
 - Baseado nesse vídeo no [Youtube](https://www.youtube.com/watch?v=dtKciwk_si4&t=1s); 
 - [Emojis](https://emojipedia.org/);
