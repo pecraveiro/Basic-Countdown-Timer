@@ -1,6 +1,10 @@
+<!--
 <h1>
     <img src="projeto.png">
 </h1>
+-->
+
+![app-countdown-github-banner](https://user-images.githubusercontent.com/79882049/148591953-2cf5b5b3-5f67-4451-9ed4-bdb3cb6e2620.gif)
 
 ## 🔍 Índice
 - [Sobre](#-sobre)
