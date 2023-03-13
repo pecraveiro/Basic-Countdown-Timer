@@ -8,7 +8,7 @@
 
 ## 🔍 Índice
 - [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias)
+- [Tecnologias](#-tecnologias)
 - [Guia](#-guia)
 
 ---
