@@ -19,7 +19,7 @@ O projeto **Basic Countdown Timer** é uma aplicação básica que realiza uma c
 ---
 
 
-## 📑 Tenologias
+## 📑 Tecnologias
 
 - HTML;
 - CSS;
