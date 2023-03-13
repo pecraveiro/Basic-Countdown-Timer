@@ -8,8 +8,8 @@
 
 ## 🔍 Índice
 - [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Guia completo](#-guia-completo)
+- [Tecnologias utilizadas](#-tecnologias)
+- [Guia](#-guia)
 
 ---
 ## 📑 Sobre
@@ -19,7 +19,7 @@ O projeto **Basic Countdown Timer** é uma aplicação básica que realiza uma c
 ---
 
 
-## 📑 Tenologias utilizadas
+## 📑 Tenologias
 
 - HTML;
 - CSS;
@@ -27,7 +27,7 @@ O projeto **Basic Countdown Timer** é uma aplicação básica que realiza uma c
 
 ---
 
-## 📑 Guia completo
+## 📑 Guia
 
 - Baseado nesse vídeo no [Youtube](https://www.youtube.com/watch?v=dtKciwk_si4&t=1s); 
 - [Emojis](https://emojipedia.org/);
